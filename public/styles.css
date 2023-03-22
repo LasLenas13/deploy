@@ -6,8 +6,8 @@ button {
     background-color: black;
     color: white;
     border: none;
-    border-right: 2px solid aqua;
-    border-bottom: 2px solid aqua;
+    border-right: 2px solid rgb(60, 255, 0);
+    border-bottom: 2px solid rgb(132, 255, 0);
     padding: 10px 20px;
     font-weight: bold;
 }
